@@ -28,7 +28,9 @@ a placed task, that edit becomes a training signal.
 
 | Repo | What it is |
 | ---- | ---------- |
-| [`zenflow`](https://github.com/tryzenflow/zenflow) | The monorepo — web PWA, mobile app, NestJS API + scheduler, shared packages, and the FastAPI bandit service. |
+| [`releases`](https://github.com/tryzenflow/releases) | Release notes and downloads (Android APK, iOS simulator build) for each Zenflow version. |
+
+The application source is private.
 
 ## Status
 
